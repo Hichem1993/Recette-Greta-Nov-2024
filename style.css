@@ -113,7 +113,7 @@ header ul li{
     margin: 0 auto;
 }
 
-.contact main h1{
+h1{
     text-align: center;
     color: blue;
     margin: 25px 0;
@@ -165,4 +165,9 @@ input[type=submit] {
   
   input[type=submit]:hover {
     background-color: #190297;
+  }
+
+  footer{
+    width: 700px;
+    margin: 0 auto;
   }
