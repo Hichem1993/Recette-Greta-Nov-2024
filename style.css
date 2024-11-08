@@ -13,6 +13,10 @@ ul, li {
     list-style: none;
 }
 
+
+/* Section */
+
+
 section {
     width: 1000px;
     margin: 0 auto;
@@ -58,4 +62,45 @@ section form button{
     background: blue;
     color: white;
     cursor: pointer;
+}
+
+
+/* Accueil */
+
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+header ul{
+    display: flex;
+    justify-content: flex-end;
+}
+
+header ul li{
+    margin-left: 25px;
+    font-size: 1.3em;
+}
+
+.gallerie {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.gallerie article{
+    width: 32%;
+    margin-bottom: 30px;
+    display: flex; /*bouton mm ligne*/
+    flex-direction: column; /*bouton mm ligne*/
+}
+
+.gallerie article img{
+    width: 100%;
+}
+
+.gallerie article h2{
+    flex: 1; /*bouton mm ligne*/
 }
