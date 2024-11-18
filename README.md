@@ -25,6 +25,6 @@ liste des future codage :
 
 Lien hypertexte :
 
-[lien vers google](https://google.fr)
+[lien vers google](https://google.fr){:target="_blank"}
 
 ## titre de niveau 3
