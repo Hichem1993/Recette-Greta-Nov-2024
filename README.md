@@ -42,7 +42,19 @@ git push
 ```
 code dans un paragraphe `git commit`
 
-## paragraphe avec un saute ligne
+## paragraphe avec un saut ligne
 
 bonjour comment allez vous  
 ca va bien
+
+## Listes complète des balises html gérées par markdown
+
+```
+h1 h2 h3 ... h6
+p br
+ul li ol li
+img
+a
+pre code
+input checkbox
+```
