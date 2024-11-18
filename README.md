@@ -32,3 +32,12 @@ Lien hypertexte :
 Ajouter une image :
 
 ![](cas.png)
+
+## Afficher des commandes
+
+```
+git add .
+git commit -m "message"
+git push
+```
+code dans un paragraphe `git commit`
