@@ -73,6 +73,10 @@ section form button{
     margin: 0 auto;
 }
 
+header{
+    padding: 0 380px;
+}
+
 header ul{
     display: flex;
     justify-content: flex-end;
@@ -161,13 +165,25 @@ input[type=submit] {
     border-radius: 4px;
     cursor: pointer;
     font-size: 16px;
-  }
+}
   
-  input[type=submit]:hover {
+input[type=submit]:hover {
     background-color: #190297;
-  }
+}
 
-  footer{
+
+/* Footer */
+
+
+footer{
     width: 700px;
     margin: 0 auto;
-  }
+}
+
+.newsletter{
+flex-direction: row;
+}
+
+.newsletter input[type=submit]{
+    margin-left: 30px;
+}
