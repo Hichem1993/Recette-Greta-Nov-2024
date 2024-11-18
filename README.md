@@ -25,6 +25,10 @@ liste des future codage :
 
 Lien hypertexte :
 
-[lien vers google](https://google.fr){:target="_blank"}
+[lien vers google](https://google.fr)
 
 ## titre de niveau 3
+
+Ajouter une image :
+
+![](cas.png)
