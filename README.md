@@ -17,4 +17,10 @@ autre liste :
 2. disposer d'un profil gestionnaire
 3. rédiger en français et en anglais
 
+liste des future codage :
+
+1. [x] réaliser la page connexion
+2. [ ] créer la base de données
+3. [ ] installer PHP
+
 ## titre de niveau 3
