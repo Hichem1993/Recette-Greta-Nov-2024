@@ -47,6 +47,8 @@ code dans un paragraphe `git commit`
 bonjour comment allez vous  
 ca va bien
 
+---
+
 ## Listes complète des balises html gérées par markdown
 
 ```
@@ -57,4 +59,5 @@ img
 a
 pre code
 input checkbox
+hr
 ```
